@@ -1,0 +1,12 @@
+{
+  "name":"PMV Surwari Ayodhya NMMS 2027",
+  "short_name":"PMV Surwari NMMS",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f4f8ff",
+  "theme_color":"#0757d9",
+  "description":"पूर्व माध्यमिक विद्यालय सुरवारी — NMMS 2027 अध्ययन और क्विज पोर्टल",
+  "icons":[
+    {"src":"assets/logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

@@ -1,0 +1,10 @@
+PMV SURWARI NMMS 2027 — FINAL ONLINE SETUP
+
+1. Google Sheet में Quizzes और Results sheets बनी रहें।
+2. Apps Script में इस ZIP की GoogleAppsScript_Code.gs का पूरा code रखें।
+3. ADMIN_PIN अभी 1234 है। सुरक्षा के लिए बाद में Apps Script और app.js दोनों में एक साथ बदलें।
+4. Deploy > Manage deployments > Edit: Execute as = Me, Who has access = Anyone.
+5. Deploy करके वही /exec URL config.js में रखें।
+6. इस build में JSONP bridge है, इसलिए local index.html (file://) से भी Quiz list और Result save test किया जा सकता है।
+7. पहले Web App URL खोलकर {"ok":true,"message":"PMV SURWARI NMMS Backend Running"} देखें।
+8. फिर portal खोलकर Quiz page देखें।
